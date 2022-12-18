@@ -1,0 +1,5 @@
+<!ELEMENT StoreItems (Item*)>
+        <!ELEMENT Item (Name, Price, Quantity)>
+        <!ELEMENT Name (#PCDATA)>
+        <!ELEMENT Price (#PCDATA)>
+        <!ELEMENT Quantity (#PCDATA)>

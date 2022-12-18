@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE StoreItems SYSTEM "storeitems.dtd">
+<StoreItems>
+            
+    
+    <Item>
+                        
+        
+        <Name>Komputer</Name>
+                        
+        
+        <Price>1999.00</Price>
+                        
+        
+        <Quantity>5</Quantity>
+                    
+    
+    </Item>
+            
+    
+    <Item>
+                        
+        
+        <Name>Laptop</Name>
+                        
+        
+        <Price>2999.00</Price>
+                        
+        
+        <Quantity>7</Quantity>
+                    
+    
+    </Item>
+            
+    
+    <Item>
+                        
+        
+        <Name>Słuchawki</Name>
+                        
+        
+        <Price>99.00</Price>
+                        
+        
+        <Quantity>12</Quantity>
+                    
+    
+    </Item>
+            
+    
+    <Item>
+                        
+        
+        <Name>PS5</Name>
+                        
+        
+        <Price>5999.00</Price>
+                        
+        
+        <Quantity>5</Quantity>
+                    
+    
+    </Item>
+            
+    
+    <Item>
+                        
+        
+        <Name>Monitor</Name>
+                        
+        
+        <Price>299.00</Price>
+                        
+        
+        <Quantity>15</Quantity>
+                    
+    
+    </Item>
+            
+    
+    <Item>
+                        
+        
+        <Name>Klawiatura</Name>
+                        
+        
+        <Price>49.00</Price>
+                        
+        
+        <Quantity>52</Quantity>
+                    
+    
+    </Item>
+        
+    
+    <Item>
+                
+        <Name>LodĂłwka</Name>
+                
+        <Price>100</Price>
+                
+        <Quantity>2</Quantity>
+            
+    </Item>
+    
+    <Item>
+        <Name>Lampka</Name>
+        <Price>100</Price>
+        <Quantity>2</Quantity>
+    </Item>
+</StoreItems>
